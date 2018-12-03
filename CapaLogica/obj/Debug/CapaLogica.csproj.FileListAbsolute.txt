@@ -1,0 +1,10 @@
+D:\UNIVERSIDAD\2018\2-2018\Arquitectura\1erParcialArquitecturaDeSoftware3Capas\CapaLogica\bin\Debug\CapaLogica.dll
+D:\UNIVERSIDAD\2018\2-2018\Arquitectura\1erParcialArquitecturaDeSoftware3Capas\CapaLogica\bin\Debug\CapaLogica.pdb
+D:\UNIVERSIDAD\2018\2-2018\Arquitectura\1erParcialArquitecturaDeSoftware3Capas\CapaLogica\bin\Debug\CapaDatos.dll
+D:\UNIVERSIDAD\2018\2-2018\Arquitectura\1erParcialArquitecturaDeSoftware3Capas\CapaLogica\bin\Debug\CapaDatos.pdb
+D:\UNIVERSIDAD\2018\2-2018\Arquitectura\1erParcialArquitecturaDeSoftware3Capas\CapaLogica\obj\Debug\CapaLogica.dll
+D:\UNIVERSIDAD\2018\2-2018\Arquitectura\1erParcialArquitecturaDeSoftware3Capas\CapaLogica\obj\Debug\CapaLogica.pdb
+D:\UNIVERSIDAD\2018\2-2018\Arquitectura\1erParcialArquitecturaDeSoftware3Capas\CapaLogica\bin\Debug\CapaDatos.dll.config
+D:\UNIVERSIDAD\2018\2-2018\Arquitectura\1erParcialArquitecturaDeSoftware3Capas\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\2018\2-2018\Arquitectura\1erParcialArquitecturaDeSoftware3Capas\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\2018\2-2018\Arquitectura\1erParcialArquitecturaDeSoftware3Capas\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
